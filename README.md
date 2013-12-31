@@ -1,16 +1,16 @@
 资料汇总
 ========
 
-# JAVA  
+## JAVA  
 [Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)
 
-# Python
+## Python
 [Python 入门中译版[LaTeX排版]](http://www.latexstudio.net/python-tutorial-zh-cn-latex-typesetting/)  
 
-# GO
+## GO
 [Go Advent Day 25](http://blog.gopheracademy.com/index)  
 
-# 前端  
+## 前端  
 [前端工程精粹（一）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)  
 [前端工程精粹（二）：静态资源管理与模板框架](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part2)  
 [学用 JavaScript 设计模式](http://www.oschina.net/translate/learning-javascript-design-patterns)  
@@ -28,9 +28,9 @@
 
 
 
-# 后端
+## 后端
 [redis中文文档](http://www.redisdoc.com/en/latest/index.html)
 
-# Linux
+## Linux
 [Bash 编程陷阱](http://bash.cumulonim.biz/BashPitfalls.html)  
 
