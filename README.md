@@ -4,4 +4,4 @@ document
 some document
 
 
-[JAVA]
+[HOME](https://github.com/xiejinlin/document/wiki)
