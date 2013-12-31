@@ -25,6 +25,7 @@
 [前端编程安全最佳实践 ](http://net.tutsplus.com/tutorials/client-side-security-best-practices/)  
 [前端收集](https://github.com/foru17/front-end-collect)  
 [前端技术文档汇总](http://devdocs.io/)  
+[前端工作流程](http://willkan.github.io/blog/html/Workflow/)  
 
 
 
