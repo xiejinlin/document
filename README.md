@@ -26,6 +26,10 @@
 [前端收集](https://github.com/foru17/front-end-collect)  
 [前端技术文档汇总](http://devdocs.io/)  
 [前端工作流程](http://willkan.github.io/blog/html/Workflow/)  
+[百度前端集成解决方案](http://fis.baidu.com/)   
+[Sea.js](http://seajs.org/docs/)  
+[KISSY](https://github.com/kissyteam/kissy)  
+[Arale](https://github.com/aralejs/aralejs.org)   
 
 
 
