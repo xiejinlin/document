@@ -1,14 +1,7 @@
 资料汇总
 ========
 
-## JAVA  
-[Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)
 
-## Python
-[Python 入门中译版[LaTeX排版]](http://www.latexstudio.net/python-tutorial-zh-cn-latex-typesetting/)  
-
-## GO
-[Go Advent Day 25](http://blog.gopheracademy.com/index)  
 
 ## 前端  
 [前端工程精粹（一）：静态资源版本更新与缓存](http://www.infoq.com/cn/articles/front-end-engineering-and-performance-optimization-part1)  
@@ -35,7 +28,19 @@
 
 
 ## 后端
-[redis中文文档](http://www.redisdoc.com/en/latest/index.html)
+[redis中文文档](http://www.redisdoc.com/en/latest/index.html)  
+
+## Scala
+[Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html)  
+
+## JAVA  
+[Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)  
+
+## Python
+[Python 入门中译版[LaTeX排版]](http://www.latexstudio.net/python-tutorial-zh-cn-latex-typesetting/)  
+
+## GO
+[Go Advent Day 25](http://blog.gopheracademy.com/index)  
 
 ## Linux
 [Bash 编程陷阱](http://bash.cumulonim.biz/BashPitfalls.html)  
