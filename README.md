@@ -24,7 +24,7 @@
 [KISSY](https://github.com/kissyteam/kissy)  
 [Arale](https://github.com/aralejs/aralejs.org)   
 [JavaScript Framework](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)  
-
+[2013年度最强AngularJS资源合集](http://www.tuicool.com/articles/ENjAVb)  
 
 
 ## 后端
