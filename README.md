@@ -45,3 +45,6 @@
 ## Linux
 [Bash 编程陷阱](http://bash.cumulonim.biz/BashPitfalls.html)  
 
+## Git
+[git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)  
+
