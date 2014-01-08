@@ -43,9 +43,11 @@
 [Go Advent Day 25](http://blog.gopheracademy.com/index)  
 [GO语言讲解](http://www.widuu.com/archives/category/golang)  
 
-## Linux
+## Linux  
 [Bash 编程陷阱](http://bash.cumulonim.biz/BashPitfalls.html)  
 
-## Git
+## Git  
 [git - 简易指南](http://rogerdudler.github.io/git-guide/index.zh.html)  
 
+## 算法  
+[一个超赞的数据结构可视化站点](http://www.cs.usfca.edu/~galles/visualization/Algorithms.html)  
