@@ -41,6 +41,7 @@
 
 ## GO
 [Go Advent Day 25](http://blog.gopheracademy.com/index)  
+[GO语言讲解](http://www.widuu.com/archives/category/golang)  
 
 ## Linux
 [Bash 编程陷阱](http://bash.cumulonim.biz/BashPitfalls.html)  
