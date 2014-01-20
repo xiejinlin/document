@@ -32,6 +32,7 @@
 
 ## Scala
 [Scala 课堂](http://twitter.github.io/scala_school/zh_cn/index.html)  
+[Scala Tour](http://zh.scala-tour.com/#/welcome)  
 
 ## JAVA  
 [Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)  
