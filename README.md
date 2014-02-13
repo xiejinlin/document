@@ -35,7 +35,8 @@
 [Scala Tour](http://zh.scala-tour.com/#/welcome)  
 
 ## JAVA  
-[Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/)  
+[Java 7 并发编程指南中文版](http://ifeve.com/java-7-concurrency-cookbook/) 
+[Java编程风格指南](http://hawstein.com/posts/google-java-style.html)  
 
 ## Python
 [Python 入门中译版[LaTeX排版]](http://www.latexstudio.net/python-tutorial-zh-cn-latex-typesetting/)  
