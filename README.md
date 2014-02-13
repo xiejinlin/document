@@ -25,7 +25,7 @@
 [Arale](https://github.com/aralejs/aralejs.org)   
 [JavaScript Framework](https://github.com/vhf/free-programming-books/blob/master/javascript-frameworks-resources.md)  
 [2013年度最强AngularJS资源合集](http://www.tuicool.com/articles/ENjAVb)  
-
+[JavaScript之道](http://jstherightway.org/)  
 
 ## 后端
 [redis中文文档](http://www.redisdoc.com/en/latest/index.html)  
